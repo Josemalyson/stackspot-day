@@ -69,6 +69,14 @@
 * [Generative AI Engineering with LLMs](https://www.coursera.org/specializations/generative-ai-engineering-with-llms?utm_source=mobile&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button)
 * [IBM RAG and Agentic AI Professional Certificate](https://www.coursera.org/professional-certificates/ibm-rag-and-agentic-ai)
 
+## Canais Youtube
+
+* [aiDotEngineer](https://www.youtube.com/@aiDotEngineer)
+* [fahdmirza](https://www.youtube.com/@fahdmirza)
+* [krishnaik06](https://www.youtube.com/@krishnaik06)
+* [WesRoth](https://www.youtube.com/@WesRoth)
+* [matthew_berman](https://www.youtube.com/@matthew_berman)
+
 ## Players
 
 * [OpenAI](https://openai.com/)
