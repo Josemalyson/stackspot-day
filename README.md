@@ -1,119 +1,126 @@
-# Muito Além do ChatGPT: da Arquitetura ao Deploy de GenAI
+# 🚀 Muito Além do ChatGPT: da Arquitetura ao Deploy de GenAI
 
-1. **Introdução e Panorama da GenAI**
+---
 
-   * Conceito e impacto real (copilotos, chatbots, análise de dados)
-   * Principais players e modelos (OpenAI, Google, Anthropic, Meta, Mistral, xAI)
+## 1. 🌐 Introdução e Panorama da GenAI
 
-2. **Fundamentos Técnicos**
+* 💡 Conceito e impacto real (copilotos, chatbots, análise de dados)
+* 🏢 Principais players e modelos (OpenAI, Google, Anthropic, Meta, Mistral, xAI)
 
-   * Arquitetura Transformer (self-attention, encoder vs decoder)
-   * Modelos base (BERT, GPT, LLaMA)
-   * Prompt engineering (zero-shot, few-shot, chain-of-thought)
-   * Limitações de contexto e tokens
+---
 
-3. **Ferramentas para Desenvolvedores**
+## 2. 🧠 Fundamentos Técnicos
 
-   * **VSCode, Cursor, Windsurf, Claude Code, Gemini CLI**
-   * APIs e plataformas de acesso (Hugging Face, OpenRouter)
-   * Comparação entre ambientes locais (Ollama, LM Studio) e nuvem
+* 🔄 Arquitetura Transformer (self-attention, encoder vs decoder)
+* 📚 Modelos base (BERT, GPT, LLaMA)
+* 🎯 Prompt engineering (zero-shot, few-shot, chain-of-thought)
+* 📏 Limitações de contexto e tokens
 
-4. **RAG (Retrieval-Augmented Generation)**
+---
 
-   * Arquitetura: ingestion, embeddings, vector stores (pgvector, Chroma, Weaviate, Pinecone)
-   * Casos de uso em empresas (chat corporativo, jurídico, suporte)
-5. **Fine-Tuning e Adaptação**
+## 3. 🛠️ Ferramentas para Desenvolvedores
 
-   * Fine-tuning tradicional vs PEFT/LoRA
-   * Casos de adaptação rápida para domínios específicos
+* 💻 **VSCode, Cursor, Windsurf, Claude Code, Gemini CLI**
+* 🔌 APIs e plataformas (Hugging Face, OpenRouter)
+* ☁️ Comparação: ambientes locais (Ollama, LM Studio) vs nuvem
 
-6. **Agentes e Multi-Agentes**
+---
 
-   * Diferença entre chatbot e agente inteligente
-   * Frameworks (LangChain, LangGraph, CrewAI, Agno)
-   * **Evoluções**:
+## 4. 📂 RAG (Retrieval-Augmented Generation)
 
-     * **A2A (Agent-to-Agent)** – colaboração entre agentes
-     * **MCP (Model Context Protocol)** – padrão aberto para conectar modelos, dados e ferramentas
+* ⚙️ Arquitetura: ingestion, embeddings, vector stores (pgvector, Chroma, Weaviate, Pinecone)
+* 🏭 Casos de uso: chat corporativo, jurídico, suporte
 
-7. **Modelos Multimodais**
+---
 
-   * Texto, imagem, áudio e vídeo (GPT-4o, Gemini, LLaVA)
-   * Aplicações reais de multimodalidade em empresas
+## 5. 🔧 Fine-Tuning e Adaptação
 
-8. **Deployment e Observabilidade**
+* 🔬 Fine-tuning tradicional vs PEFT/LoRA
+* ⚡ Casos de adaptação rápida para domínios específicos
 
-   * Infraestrutura (Docker, Kubernetes, AI/Cloudflare Workers, AWS SageMaker, Google Vertex AI, Azure OpenAI)
-   * Monitoramento e tracing (LangSmith, Phoenix)
-   * Avaliação e qualidade (RAGAS, DeepEval)
-   * Segurança e guardrails
+---
 
-9. **Mensagem Final**
+## 6. 🤖 Agentes e Multi-Agentes
 
-   * IA como copiloto estratégico, não substituto
-   * Aprender com a IA, absorver conhecimento e aplicar na prática
-   * Ser protagonista na evolução da GenAI
+* 💬 Diferença: chatbot vs agente inteligente
+* 🛠️ Frameworks: LangChain, LangGraph, CrewAI, Agno
+* 🚀 Evoluções:
 
-# **Referências:**
+  * 🤝 **A2A (Agent-to-Agent)** – colaboração entre agentes
+  * 🔗 **MCP (Model Context Protocol)** – padrão aberto para conectar modelos, dados e ferramentas
 
-## Artigos
+---
+
+## 7. 🎥 Modelos Multimodais
+
+* 🖼️ Texto, imagem, áudio e vídeo (GPT-4o, Gemini, LLaVA)
+* 📊 Aplicações reais em empresas
+
+---
+
+## 8. ⚙️ Deployment e Observabilidade
+
+* 🏗️ Infraestrutura: Docker, Kubernetes, AI/Cloudflare Workers, AWS SageMaker, Google Vertex AI, Azure OpenAI
+* 📡 Monitoramento e tracing: LangSmith, Phoenix
+* ✅ Avaliação e qualidade: RAGAS, DeepEval
+* 🔒 Segurança e guardrails
+
+---
+
+## 9. 🎯 Mensagem Final
+
+* 🤝 IA como copiloto estratégico, não substituto
+* 📚 Aprender com a IA, absorver conhecimento e aplicar
+* 🚀 Ser protagonista na evolução da GenAI
+
+---
+
+# 📖 Referências
+
+### 📑 Artigos
 
 * [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 * [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 * [LoRA](https://arxiv.org/abs/2106.09685)
 * [PEFT](https://huggingface.co/docs/peft/index)
 
-## Cursos
+### 🎓 Cursos
 
 * [Deeplearning](https://www.deeplearning.ai/)
 * [Generative AI Engineering with LLMs](https://www.coursera.org/specializations/generative-ai-engineering-with-llms?utm_source=mobile&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button)
 * [IBM RAG and Agentic AI Professional Certificate](https://www.coursera.org/professional-certificates/ibm-rag-and-agentic-ai)
 
-## Canais Youtube
+### ▶️ Canais YouTube
 
 * [aiDotEngineer](https://www.youtube.com/@aiDotEngineer)
 * [fahdmirza](https://www.youtube.com/@fahdmirza)
 * [krishnaik06](https://www.youtube.com/@krishnaik06)
 * [WesRoth](https://www.youtube.com/@WesRoth)
-* [matthew_berman](https://www.youtube.com/@matthew_berman)
+* [matthew\_berman](https://www.youtube.com/@matthew_berman)
 
-## Players
+### 🏢 Players
 
-* [OpenAI](https://openai.com/)
-* [Anthropic Claude](https://www.anthropic.com/)
-* [Google DeepMind](https://deepmind.google/)
-* [Meta LLaMA](https://ai.meta.com/llama/)
-* [Mistral AI](https://mistral.ai/)
-* [xAI](https://x.ai/)
+[OpenAI](https://openai.com/) | [Anthropic Claude](https://www.anthropic.com/) | [Google DeepMind](https://deepmind.google/) | [Meta LLaMA](https://ai.meta.com/llama/) | [Mistral AI](https://mistral.ai/) | [xAI](https://x.ai/)
 
-## Ferramentas
+### 🧰 Ferramentas
 
-* [Ollama](https://ollama.ai/)
-* [LM Studio](https://lmstudio.ai/)
-* [Hugging Face](https://huggingface.co/)
-* [OpenRouter](https://openrouter.ai/)
-* [VSCode](https://code.visualstudio.com/)
-* [Cursor](https://www.cursor.so/)
-* [Windsurf](https://windsurf.dev/)
+[Ollama](https://ollama.ai/) | [LM Studio](https://lmstudio.ai/) | [Hugging Face](https://huggingface.co/) | [OpenRouter](https://openrouter.ai/) | [VSCode](https://code.visualstudio.com/) | [Cursor](https://www.cursor.so/) | [Windsurf](https://windsurf.dev/)
 
-## Vetores
+### 📊 Vetores
 
-* [pgvector](https://github.com/pgvector/pgvector)
-* [Chroma](https://www.trychroma.com/)
-* [Weaviate](https://weaviate.io/)
-* [Pinecone](https://www.pinecone.io/)
+[pgvector](https://github.com/pgvector/pgvector) | [Chroma](https://www.trychroma.com/) | [Weaviate](https://weaviate.io/) | [Pinecone](https://www.pinecone.io/)
 
-## Frameworks
+### ⚙️ Frameworks
 
-* [LangChain](https://python.langchain.com/)
-* [LangGraph](https://langchain-ai.github.io/langgraph/)
-* [CrewAI](https://www.crewai.io/)
-* [Agno](https://docs.agno.com/introduction)
+[LangChain](https://python.langchain.com/) | [LangGraph](https://langchain-ai.github.io/langgraph/) | [CrewAI](https://www.crewai.io/) | [Agno](https://docs.agno.com/introduction)
 
-## Observability e Monitoring
+### 🔎 Observabilidade e Monitoring
 
-* [LangSmith](https://docs.smith.langchain.com/)
-* [Phoenix](https://docs.arize.com/phoenix/)
-* [RAGAS](https://docs.ragas.io/en/latest/)
-* [DeepEval](https://github.com/confident-ai/deepeval)
-* [Cloudflare Workers](https://workers.cloudflare.com/)
+[LangSmith](https://docs.smith.langchain.com/) | [Phoenix](https://docs.arize.com/phoenix/) | [RAGAS](https://docs.ragas.io/en/latest/) | [DeepEval](https://github.com/confident-ai/deepeval) | [Cloudflare Workers](https://workers.cloudflare.com/)
+
+---
+
+## 🌍 Minhas Redes
+
+* [🐙 GitHub](https://github.com/Josemalyson)
+* [💼 LinkedIn](https://www.linkedin.com/in/josemalysonoliveira/)
