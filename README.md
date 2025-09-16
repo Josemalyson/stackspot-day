@@ -65,6 +65,7 @@
 
 ## Cursos
 
+* [Deeplearning](https://www.deeplearning.ai/)
 * [Generative AI Engineering with LLMs](https://www.coursera.org/specializations/generative-ai-engineering-with-llms?utm_source=mobile&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button)
 * [IBM RAG and Agentic AI Professional Certificate](https://www.coursera.org/professional-certificates/ibm-rag-and-agentic-ai)
 
@@ -100,3 +101,11 @@
 * [LangGraph](https://langchain-ai.github.io/langgraph/)
 * [CrewAI](https://www.crewai.io/)
 * [Agno](https://docs.agno.com/introduction)
+
+## Observability e Monitoring
+
+* [LangSmith](https://docs.smith.langchain.com/)
+* [Phoenix](https://docs.arize.com/phoenix/)
+* [RAGAS](https://docs.ragas.io/en/latest/)
+* [DeepEval](https://github.com/confident-ai/deepeval)
+* [Cloudflare Workers](https://workers.cloudflare.com/)
