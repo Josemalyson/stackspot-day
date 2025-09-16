@@ -22,7 +22,6 @@
 
    * Arquitetura: ingestion, embeddings, vector stores (pgvector, Chroma, Weaviate, Pinecone)
    * Casos de uso em empresas (chat corporativo, jurídico, suporte)
-
 5. **Fine-Tuning e Adaptação**
 
    * Fine-tuning tradicional vs PEFT/LoRA
@@ -31,7 +30,7 @@
 6. **Agentes e Multi-Agentes**
 
    * Diferença entre chatbot e agente inteligente
-   * Frameworks (LangChain, LangGraph, CrewAI)
+   * Frameworks (LangChain, LangGraph, CrewAI, Agno)
    * **Evoluções**:
 
      * **A2A (Agent-to-Agent)** – colaboração entre agentes
@@ -54,3 +53,50 @@
    * IA como copiloto estratégico, não substituto
    * Aprender com a IA, absorver conhecimento e aplicar na prática
    * Ser protagonista na evolução da GenAI
+
+# **Referências:**
+
+## Artigos
+
+* [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+* [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+* [LoRA](https://arxiv.org/abs/2106.09685)
+* [PEFT](https://huggingface.co/docs/peft/index)
+
+## Cursos
+
+* [Generative AI Engineering with LLMs](https://www.coursera.org/specializations/generative-ai-engineering-with-llms?utm_source=mobile&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button)
+* [IBM RAG and Agentic AI Professional Certificate](https://www.coursera.org/professional-certificates/ibm-rag-and-agentic-ai)
+
+## Players
+
+* [OpenAI](https://openai.com/)
+* [Anthropic Claude](https://www.anthropic.com/)
+* [Google DeepMind](https://deepmind.google/)
+* [Meta LLaMA](https://ai.meta.com/llama/)
+* [Mistral AI](https://mistral.ai/)
+* [xAI](https://x.ai/)
+
+## Ferramentas
+
+* [Ollama](https://ollama.ai/)
+* [LM Studio](https://lmstudio.ai/)
+* [Hugging Face](https://huggingface.co/)
+* [OpenRouter](https://openrouter.ai/)
+* [VSCode](https://code.visualstudio.com/)
+* [Cursor](https://www.cursor.so/)
+* [Windsurf](https://windsurf.dev/)
+
+## Vetores
+
+* [pgvector](https://github.com/pgvector/pgvector)
+* [Chroma](https://www.trychroma.com/)
+* [Weaviate](https://weaviate.io/)
+* [Pinecone](https://www.pinecone.io/)
+
+## Frameworks
+
+* [LangChain](https://python.langchain.com/)
+* [LangGraph](https://langchain-ai.github.io/langgraph/)
+* [CrewAI](https://www.crewai.io/)
+* [Agno](https://docs.agno.com/introduction)
