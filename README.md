@@ -83,6 +83,9 @@
 * [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 * [LoRA](https://arxiv.org/abs/2106.09685)
 * [PEFT](https://huggingface.co/docs/peft/index)
+* [Creator: Gerador Inteligente de Roadmaps de Aprendizado](https://www.linkedin.com/pulse/creator-um-guia-completo-sobre-constru%25C3%25A7%25C3%25A3o-de-gerador-oliveira-qsoxf/?trackingId=Y6s%2BKn7PQ9iZxWuP5oJGUA%3D%3D)
+* [Analisador de logs com Splunk](https://stackspot.com/pt/blog/criar-um-analisador-de-logs-com-splunk/)
+* [Multi agentes com CrewAI](https://www.linkedin.com/pulse/multi-agentes-com-crewai-josemalyson-oliveira-kj0pf/?trackingId=Y6s%2BKn7PQ9iZxWuP5oJGUA%3D%3D)
 
 ### 🎓 Cursos
 
